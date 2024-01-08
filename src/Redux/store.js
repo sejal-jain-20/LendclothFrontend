@@ -11,4 +11,4 @@ const store = configureStore({
 });
 
 export default store;
-export const server = 'http://localhost:4000/api/v1';
+export const server = 'https://d5077901-d6d1-4a70-93c7-3a03675af7a7-00-1q2ahegn3rofl.pike.replit.dev/api/v1';
